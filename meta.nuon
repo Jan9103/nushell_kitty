@@ -1,0 +1,10 @@
+{
+	version: [1 0 0]
+	description: 'Let nu use xterm-kitty features and fix some issues.'
+	copyright: '2022 Jan9103 (@jan9103:matrix.org)'
+	license: 'MIT'
+	url: 'https://github.com/jan9103/nushell_kitty'
+	min_nu_version: [0 69 1]
+	max_nu_version: [0 70 0]
+}
+# vim: ft=nu
